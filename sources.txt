@@ -1,0 +1,31 @@
+ИСТОЧНИКИ ПРОЕКТА «МИРНИНСКИЙ РАЙОН — ИНТЕРАКТИВНАЯ КРАЕВЕДЧЕСКАЯ КАРТА»
+
+1. Официальный сайт муниципального района «Мирнинский район» Республики Саха (Якутия)
+https://www.xn----7sbab7amcgekn3b5j.xn--p1ai/
+
+2. Устав муниципального образования «Мирнинский район» Республики Саха (Якутия)
+https://base.garant.ru/26750671/
+
+3. Пространственный слой муниципальных образований НИУ ВШЭ, сервис Yakutia_economics_February_2026_MIL1
+https://geoportal.hse.ru/server/rest/services/Yakutia_economics_February_2026_MIL1/MapServer
+
+4. OpenFreeMap
+https://openfreemap.org/
+
+5. OpenStreetMap
+https://www.openstreetmap.org/
+
+6. Архив пользователя «Интерактивная карта Мирнинского района 2026» — материалы о районе, людях, мастерах, хранителях народных традиций и национальных праздниках; фотографии из предоставленных документов использованы в карточках карты.
+
+Примечание о границе: правовой статус границ муниципального района определяется законодательством Республики Саха (Якутия). Геометрия, отображаемая в веб-карте, загружается из пространственного слоя муниципальных образований НИУ ВШЭ. Это сделано специально, чтобы не использовать выдуманный или схематический полигон.
+
+
+Фотографии населённых пунктов из открытых источников:
+- Мирный — Wikimedia Commons, Category:Mirny, Sakha: https://commons.wikimedia.org/wiki/Category:Mirny,_Sakha
+- Удачный — Wikimedia Commons, Category:Udachny: https://commons.wikimedia.org/wiki/Category:Udachny
+- Айхал — Wikimedia Commons, Category:Aykhal: https://commons.wikimedia.org/wiki/Category:Aykhal
+- Светлый — Wikimedia Commons, Category:Svetly (Sakha): https://commons.wikimedia.org/wiki/Category:Svetly_(Sakha)
+- Чернышевский — Wikimedia Commons, Category:Chernyshevsky, Sakha Republic: https://commons.wikimedia.org/wiki/Category:Chernyshevsky,_Sakha_Republic
+- Алмазный — изображение указано в Wikidata Q2096920 и ведёт к файлу Wikimedia Commons: https://www.wikidata.org/wiki/Q2096920
+
+Примечание: фотографии загружаются из внешних источников при наличии интернет-соединения; в карточке по нажатию на фотографию открывается страница источника. Для публикации проекта следует сохранять указанные сведения об авторстве и лицензии Wikimedia Commons.
